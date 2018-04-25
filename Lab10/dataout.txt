@@ -1,0 +1,3 @@
+a12345679 : lllll, fffff : 75
+a12345670 : lllllll, fffffff : 54
+a12345678 : lll, fff : 25
